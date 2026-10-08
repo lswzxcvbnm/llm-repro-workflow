@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Research Reproduction"
+  short_description: "Prepare reproducible LLM research and complete runbooks"
+  default_prompt: "Use $llm-repro-workflow to prepare this research reproduction and perform bounded smoke tests. Do not launch full experiments; deliver complete launch, monitor, stop, resume, and evaluation commands."

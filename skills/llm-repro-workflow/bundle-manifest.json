@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "INSTALL.md",
+      "size_bytes": 5990,
+      "sha256": "9490d2a7687ddcedc9d144e7490d192e937e1fb8325f0825707c882515192d9d"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 1067,
+      "sha256": "45f29925a8b4321b130b4cb70dac8f4d291dfaac4e540dd7a4dd79bfa4587f71"
+    },
+    {
+      "path": "SKILL.md",
+      "size_bytes": 9763,
+      "sha256": "3c647b76aae800b06526787b27d856a8c4c58d7ba899f29df47d556d9b154d31"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "size_bytes": 354,
+      "sha256": "562eccb8053d370e5face26409642898fe9896198a0ad2c91f9716193ead16f8"
+    },
+    {
+      "path": "assets/run-instructions.md",
+      "size_bytes": 3176,
+      "sha256": "6f96fb9b67a56877628f005f22bff2404f29c3b8bf92dc4d1184cf5eb3c1ea04"
+    },
+    {
+      "path": "assets/run-record.md",
+      "size_bytes": 3578,
+      "sha256": "da0bf70fae642481c8b253975a63d89eaa1022cc3cff2d3b04ddf4a9acf958e8"
+    },
+    {
+      "path": "references/code-and-experiments.md",
+      "size_bytes": 8923,
+      "sha256": "53fae612d107f598512a7e7ede06a22f718758d0e611df78d2e101c07a5c1b98"
+    },
+    {
+      "path": "references/environment.md",
+      "size_bytes": 8214,
+      "sha256": "db046b0651b9ded49ad2e32dd9610cb54361219108da92c173a874c14737e6d0"
+    },
+    {
+      "path": "references/models-and-data.md",
+      "size_bytes": 5846,
+      "sha256": "3187539acaa1d1de351df09da6ab985ab52c2a6c765901951ff567deefe820ac"
+    },
+    {
+      "path": "references/portability.md",
+      "size_bytes": 5235,
+      "sha256": "a6aa197a458a6b504379609cc483141932b852d24077f21e6a08d28b9c40d35b"
+    },
+    {
+      "path": "references/troubleshooting.md",
+      "size_bytes": 7096,
+      "sha256": "bb9a5de17b8a5ae1bd9fb33cd689ac086f48fc39674dd631d573570cc7128599"
+    },
+    {
+      "path": "scripts/artifact_manifest.py",
+      "size_bytes": 5092,
+      "sha256": "3c0962ef02ed423a8e056c84da76c6667855baf19cf938297b76efd5daa2c4b0"
+    },
+    {
+      "path": "scripts/doctor.py",
+      "size_bytes": 10650,
+      "sha256": "4b5f669698d81022aee2f1cfbd763e27a4f0fd294aa2adbf547e70397b41a084"
+    },
+    {
+      "path": "scripts/install_skill.py",
+      "size_bytes": 3093,
+      "sha256": "09e409905b794c1b315581bbcee475a7ffa2f3c44db374c49d49e640cabe0664"
+    }
+  ]
+}
